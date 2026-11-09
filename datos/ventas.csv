@@ -1,0 +1,13 @@
+fecha,producto,cantidad,precio_unitario,cliente
+2026-01-05,Silla ergonómica,2,350000,Constructora Andina
+2026-01-08,Mesa de reuniones,1,890000,Constructora Andina
+2026-01-12,Escritorio ejecutivo,3,620000,TecnoSoluciones
+2026-01-18,Silla ergonómica,1,350000,TecnoSoluciones
+2026-02-02,Estante metálico,5,180000,Distribuidora Cafetera
+2026-02-07,Mesa de reuniones,2,890000,Constructora Andina
+2026-02-15,Escritorio ejecutivo,1,620000,Comercializadora del Eje
+2026-02-21,Estante metálico,3,180000,TecnoSoluciones
+2026-03-03,Silla ergonómica,4,350000,Comercializadora del Eje
+2026-03-09,Mesa de reuniones,1,890000,Distribuidora Cafetera
+2026-03-14,Estante metálico,2,180000,Constructora Andina
+2026-03-20,Escritorio ejecutivo,2,620000,TecnoSoluciones
